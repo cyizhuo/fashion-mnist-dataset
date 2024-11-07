@@ -1,6 +1,4 @@
-# Fashion Mnist dataset
-
-fashion mnist dataset by classes folder
+# Fashion Mnist dataset by classes folder
 
 From: <https://github.com/zalandoresearch/fashion-mnist>
 
