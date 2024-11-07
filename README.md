@@ -4,6 +4,10 @@ fashion mnist dataset by classes folder
 
 From: <https://github.com/zalandoresearch/fashion-mnist>
 
+## 国内下载
+
+飞桨社区: <https://aistudio.baidu.com/datasetdetail/302409>
+
 ## File Tree
 
 ```txt
@@ -29,7 +33,3 @@ dataset
     |    └── ...
     └── ...
 ```
-
-## 国内下载
-
-飞桨社区: <https://aistudio.baidu.com/datasetdetail/302409>
